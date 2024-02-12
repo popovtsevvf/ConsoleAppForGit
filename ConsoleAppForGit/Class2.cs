@@ -8,6 +8,6 @@ namespace ConsoleAppForGit
 {
     internal class Class2
     {
-    // а я ясные деньки оставляю себе
+    //Аааааа
     }
 }
