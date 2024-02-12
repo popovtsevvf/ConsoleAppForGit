@@ -8,6 +8,6 @@ namespace ConsoleAppForGit
 {
     internal class Class1
     {
-        // кринжатура подъехала
+        
     }
 }
