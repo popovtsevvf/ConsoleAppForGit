@@ -8,5 +8,6 @@ namespace ConsoleAppForGit
 {
     internal class Class3
     {
+        // Это первое изменение хорошее!!
     }
 }
