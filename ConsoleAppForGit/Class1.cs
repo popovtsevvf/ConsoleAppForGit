@@ -10,5 +10,7 @@ namespace ConsoleAppForGit
     internal class Class1
     {
         int a;
+        int b = 9; // Это 1 изменение
+
     }
 }

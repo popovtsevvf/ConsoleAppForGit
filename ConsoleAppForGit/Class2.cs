@@ -9,5 +9,6 @@ namespace ConsoleAppForGit
     internal class Class2
     {
     //Аааааа
+    //Да всё окей, 1 изменение получается хорошим
     }
 }
