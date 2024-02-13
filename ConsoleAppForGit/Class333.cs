@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleAppForGit
 {
-    internal class Class3
+    internal class Class333
     {
     }
 }
