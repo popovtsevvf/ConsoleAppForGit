@@ -11,6 +11,7 @@ namespace ConsoleAppForGit
     {
         int a;
         int b = 9; // Это 1 изменение
+        int c;
 
     }
 }
