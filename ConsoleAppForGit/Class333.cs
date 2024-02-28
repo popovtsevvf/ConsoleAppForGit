@@ -9,5 +9,6 @@ namespace ConsoleAppForGit
     internal class Class333
     {
         // Азбука вкуса
+        // Или всё-таки красное и белое?
     }
 }
